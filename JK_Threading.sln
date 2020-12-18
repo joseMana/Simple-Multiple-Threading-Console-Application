@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JK_Threading", "JK_Threading\JK_Threading.csproj", "{FA12C8FD-0A3C-4B06-AF54-F5CC5C337894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA12C8FD-0A3C-4B06-AF54-F5CC5C337894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA12C8FD-0A3C-4B06-AF54-F5CC5C337894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA12C8FD-0A3C-4B06-AF54-F5CC5C337894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA12C8FD-0A3C-4B06-AF54-F5CC5C337894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92886F43-4ED4-4C95-9783-B3826735621C}
+	EndGlobalSection
+EndGlobal
